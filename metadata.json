@@ -1,0 +1,7 @@
+{
+  "name": "CarpCrafter AI",
+  "description": "An experimental AI lab that invents novel carp fishing tools, rigs, and accessories based on specific angling challenges. It generates concept descriptions and visualizes prototypes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
